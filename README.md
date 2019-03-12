@@ -13,3 +13,5 @@ php bin/magento setup:static-content:deploy
 ```
 
 *Module is not tested with Magento versions other than 2.1.x!*
+
+Article: https://www.eleanorsoft.com/paypal-error-main-critical-exception-message-please-check-the-billing-address-information-please-enter-the-street-please-enter-the-city-please-enter-the-phone-number-please-enter-the-zip-posta/
